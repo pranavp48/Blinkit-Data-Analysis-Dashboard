@@ -1,10 +1,3 @@
-# Blinkit Data Dashboard  
-
-This project involves creating an interactive and visually appealing sales data dashboard using **Power BI**, **Power Query**, and **MS Excel**. 
-The dashboard provides insights into sales performance, item categories, outlet types, and customer ratings.
-
----
-
 ## Project Overview  
 The Blinkit Sales Data Dashboard is designed to offer a comprehensive understanding of sales and item data, including:  
 - Total sales and average performance metrics.  
@@ -57,7 +50,7 @@ The Blinkit Sales Data Dashboard is designed to offer a comprehensive understand
    - Added interactivity using slicers and filters.
 
 ### 4. **Publishing and Sharing**  
-   - Published the dashboard using Power BI Service for online access.  
+   - The dashboard was published using Power BI Service for online access.  
    - Exported reports as needed for offline sharing.
 
 ---
@@ -73,16 +66,10 @@ The Blinkit Sales Data Dashboard is designed to offer a comprehensive understand
 2. Open the **Power BI Report File (.pbix)** to view or edit the dashboard.  
 3. If needed, load the associated data files in **MS Excel** for further analysis.
 
----
-
-## Future Enhancements  
-- Add predictive analytics for sales forecasting.  
-- Enable real-time data updates through API integration.  
-- Expand analysis with customer segmentation insights.
 
 ---
 
 ## Author  
-Developed by **[Pranav Panse]**. For questions or suggestions, feel free to contact me via [Your Email Address].
+Developed by **[Pranav Panse]**. For questions or suggestions, feel free to contact me via [pranavpanse48@gmail.com].
 
 ---
