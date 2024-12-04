@@ -1,0 +1,37 @@
+****Steps Involved in this Project****
+
+**Data Acquisition:**
+Source: Extract sales data from Blinkit's internal database.
+Cleaning: Clean and preprocess the data to ensure accuracy and consistency.
+
+**Data Analysis:**
+Exploratory Data Analysis (EDA): Perform statistical analysis and visualizations to understand data patterns and trends.
+Feature Engineering: Create or transform variables to enhance analysis and model performance.
+Dashboard Development:
+Power Bi has been used for data visualization and interactive dashboard creation.
+
+**Layout Design:
+Design the layout of the dashboard, including the arrangement of charts and widgets.
+
+**Chart Creation:
+Create various charts (bar charts, pie charts, line charts) to represent different aspects of the data.
+Interactivity: Implement interactive features like filters, tooltips, and zoom functionality.
+Configuration: Configure the deployment environment to ensure smooth operation.
+Deployment: Deploy the dashboard to the chosen platform.
+
+**Maintenance and Updates:
+Data Refresh: Regularly update the data source to ensure accuracy.
+Dashboard Updates: Modify the dashboard as needed to reflect changes in data or business requirements.
+Bug Fixes: Address any issues or bugs that may arise.
+Additional Considerations:
+
+**Security: 
+Implement appropriate security measures to protect sensitive data.
+User Experience: Design the dashboard with a user-friendly interface and clear visualizations.
+Performance: Optimize the dashboard for performance, especially for large datasets.
+
+**Documentation: 
+Create clear documentation for future reference and maintenance.
+
+
+By following these steps and considering the additional factors, you can create a robust and informative sales analysis dashboard for Blinkit.
